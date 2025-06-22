@@ -35,5 +35,5 @@ Power Query for data transformation
 Excel for preliminary data cleaning
 
 🔗 #PowerBI #Dashboard #Blinkit #DataVisualization #BusinessIntelligence
-https://github.com/Priyanka-683/Blinkit-Dashboard-Power-BI/blob/main/blinkit%20Dashboard%20UI.png
 
+<img width="621" alt="blinkit Dashboard UI" src="https://github.com/user-attachments/assets/2f2144a6-13d3-466b-8c15-b17c89839864" />
